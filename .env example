@@ -1,0 +1,4 @@
+DB_HOST=localhost
+DB_USER=postgres
+DB_PASSWORD=twoje_haslo
+DB_NAME=py_to_do
